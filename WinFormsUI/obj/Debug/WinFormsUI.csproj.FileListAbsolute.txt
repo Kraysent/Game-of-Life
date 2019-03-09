@@ -1,0 +1,13 @@
+D:\Coding\C#\Life\WinFormsUI\bin\Debug\WinFormsUI.exe.config
+D:\Coding\C#\Life\WinFormsUI\bin\Debug\WinFormsUI.exe
+D:\Coding\C#\Life\WinFormsUI\bin\Debug\WinFormsUI.pdb
+D:\Coding\C#\Life\WinFormsUI\bin\Debug\LifeEngine.dll
+D:\Coding\C#\Life\WinFormsUI\bin\Debug\LifeEngine.pdb
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.csprojAssemblyReference.cache
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.Properties.Resources.resources
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.cache
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.csproj.CopyComplete
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.exe
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.pdb
+D:\Coding\C#\Life\WinFormsUI\obj\Debug\WinFormsUI.View.Main.resources
